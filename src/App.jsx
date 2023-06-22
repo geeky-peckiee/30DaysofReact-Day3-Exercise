@@ -3,7 +3,7 @@ import { Exercise1_ImageComponent } from './Exercise1-ImageComponent';
 import { Exercise2_UserCard } from './Exercise2-UserCard';
 import { Footer } from './Footer';
 
-export const Day3_App = () => {
+export const App = () => {
   return (
     <div>
     <Exercise1_ImageComponent />
